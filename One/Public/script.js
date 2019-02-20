@@ -1,0 +1,1 @@
+alert('js linked to the home page')
